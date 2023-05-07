@@ -1,7 +1,7 @@
 import React from 'react';
 import { SubHeading } from '../../components';
 import {images} from "../../constants";
-import {bsInstagram, BsArrowLeftShort, BsArrowRightShort, BsInstagram} from 'react-icons/bs';
+import {BsArrowLeftShort, BsArrowRightShort, BsInstagram} from 'react-icons/bs';
 import './Gallery.css';
 
 const galleryImages = [images.gallery01, images.gallery02, images.gallery03, images.gallery04];
